@@ -1,0 +1,107 @@
+[
+  {
+    "SYMBOL": "RELIANCE",
+    "NAME OF COMPANY": "Reliance Industries Limited",
+    "O": "500",
+    "H": "510",
+    "L": "480",
+    "CU": "490"
+  },
+  {
+    "SYMBOL": "TATACHEM",
+    "NAME OF COMPANY": "Tata Chemicals Limited",
+    "O": "930",
+    "H": "949",
+    "L": "930",
+    "CU": "945"
+  },
+  {
+    "SYMBOL": "TATACOMM",
+    "NAME OF COMPANY": "Tata Communications Limited",
+    "O": "1300",
+    "H": "1320",
+    "L": "1290",
+    "CU": "1315"
+  },
+  {
+    "SYMBOL": "CANBK",
+    "NAME OF COMPANY": "Canara Bank",
+    "O": "230",
+    "H": "240",
+    "L": "229",
+    "CU": "235"
+  },
+  {
+    "SYMBOL": "TCS",
+    "NAME OF COMPANY": "Tata Consultancy Services LTD",
+    "O": "3700",
+    "H": "3710",
+    "L": "3695",
+    "CU": "3698"
+  },
+  {
+    "SYMBOL": "HDFC",
+    "NAME OF COMPANY": "Housing Development Finance Corporation Limited",
+    "O": "2540",
+    "H": "2550",
+    "L": "2530",
+    "CU": "2545"
+  },
+  {
+    "SYMBOL": "HCLTECH",
+    "NAME OF COMPANY": "HCL Technologies Limited",
+    "O": "1095",
+    "H": "1100",
+    "L": "1085",
+    "CU": "1090"
+  },
+  {
+    "SYMBOL": "HEROMOTOCO",
+    "NAME OF COMPANY": "Hero MotoCorp Limited",
+    "O": "2710",
+    "H": "2740",
+    "L": "2700",
+    "CU": "2724"
+  },
+  {
+    "SYMBOL": "TATAMOTORS",
+    "NAME OF COMPANY": "Tata Motors Limited",
+    "O": "238",
+    "H": "250",
+    "L": "235",
+    "CU": "241"
+  },
+  {
+    "SYMBOL": "ADANIGREEN",
+    "NAME OF COMPANY": "Adani Green Energy Limited",
+    "O": "1935",
+    "H": "1945",
+    "L": "1935",
+    "CU": "1940"
+  },
+  {
+    "SYMBOL": "TECHM",
+    "NAME OF COMPANY": "Tech Mahindra Limited",
+    "O": "1440",
+    "H": "1455",
+    "L": "1435",
+    "CU": "1450"
+  },
+  {
+    "SYMBOL": "TVSMOTOR",
+    "NAME OF COMPANY": "TVS Motor Company Limited",
+    "O": "609",
+    "H": "611",
+    "L": "608",
+    "CU": "610"
+  },
+  {
+    "SYMBOL": "BHEL",
+    "NAME OF COMPANY": "Bharat Heavy Electricals Limited",
+    "O": "58",
+    "H": "62",
+    "L": "58",
+    "CU": "60"
+  }
+
+]
