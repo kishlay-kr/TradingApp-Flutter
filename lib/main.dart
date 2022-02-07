@@ -1,17 +1,18 @@
 import 'screens/homepage.dart';
 import 'screens/browse.dart';
 import 'package:flutter/material.dart';
-import 'models/stock.dart';
+import 'package:provider/provider.dart';
+import 'models/portfolio.dart';
 
 void main() {
-  runApp(
-    const MaterialApp(
-      title: 'Trading App',
-      home: SafeArea(
-        child: MyScaffold(),
-      ),
-    ),
-  );
+  runApp(MultiProvider(
+      providers: [ChangeNotifierProvider(create: (_) => Portfolio(),)],
+      child: const MaterialApp(
+        title: 'Trading App',
+        home: SafeArea(
+          child: MyScaffold(),
+        ),
+      ),));
 }
 
 class MyScaffold extends StatefulWidget {
